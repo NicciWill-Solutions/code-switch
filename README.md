@@ -20,7 +20,7 @@ By default, the app will display 10 users at a time. You may select from the dro
 
 ### `Responsive`
 
-When you resize your screen the number of columns will change to accommodate the available space, per the provided requirments.
+When you resize your screen the number of columns will change to accommodate the available space, per the provided requirements.
 
 ## Technologies
 
