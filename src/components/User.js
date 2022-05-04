@@ -5,6 +5,7 @@ import {styled} from '@mui/material/styles';
 import DEFAULT_AVATAR from '../images/sadRobot.png';
 
 const UserCard = styled('div') (({theme}) => ({
+    alignSelf: 'flex-start', // keeps other cards on row from resizing with clicked card
     backgroundColor: theme.card.almostWhite,
     boxShadow: `0.3em 0.3em 1em rgba(0,0,0,0.185);`,
     color: theme.card.gray,
