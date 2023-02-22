@@ -24,7 +24,7 @@ When you resize your screen the number of columns will change to accommodate the
 
 ## Technologies
 
-The app was built using:
+The app was built using the following:
 
 - React
 - Axios
